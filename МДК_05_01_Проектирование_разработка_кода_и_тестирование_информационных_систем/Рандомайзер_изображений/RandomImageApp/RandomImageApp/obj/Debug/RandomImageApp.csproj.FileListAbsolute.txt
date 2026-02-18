@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Рандомайзер_изображений\RandomImageApp\RandomImageApp\bin\Debug\RandomImageApp.exe.config
+C:\Users\User\Desktop\Рандомайзер_изображений\RandomImageApp\RandomImageApp\bin\Debug\RandomImageApp.exe
+C:\Users\User\Desktop\Рандомайзер_изображений\RandomImageApp\RandomImageApp\bin\Debug\RandomImageApp.pdb
+C:\Users\User\Desktop\Рандомайзер_изображений\RandomImageApp\RandomImageApp\obj\Debug\RandomImageApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Рандомайзер_изображений\RandomImageApp\RandomImageApp\obj\Debug\RandomImageApp.Form1.resources
+C:\Users\User\Desktop\Рандомайзер_изображений\RandomImageApp\RandomImageApp\obj\Debug\RandomImageApp.Properties.Resources.resources
+C:\Users\User\Desktop\Рандомайзер_изображений\RandomImageApp\RandomImageApp\obj\Debug\RandomImageApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Рандомайзер_изображений\RandomImageApp\RandomImageApp\obj\Debug\RandomImageApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Рандомайзер_изображений\RandomImageApp\RandomImageApp\obj\Debug\RandomImageApp.exe
+C:\Users\User\Desktop\Рандомайзер_изображений\RandomImageApp\RandomImageApp\obj\Debug\RandomImageApp.pdb
+C:\Users\User\Desktop\Рандомайзер_изображений\RandomImageApp\RandomImageApp\obj\Debug\RandomImageApp.exe.config

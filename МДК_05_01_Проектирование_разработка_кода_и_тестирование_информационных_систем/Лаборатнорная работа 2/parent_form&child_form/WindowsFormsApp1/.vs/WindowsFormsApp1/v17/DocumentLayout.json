@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\parent_form\u0026child_form\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2532E7CF-D079-4CF6-89FB-45EB71DFCB26}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\parent_form\u0026child_form\\WindowsFormsApp1\\windowsformsapp1\\nform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2532E7CF-D079-4CF6-89FB-45EB71DFCB26}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\nform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2532E7CF-D079-4CF6-89FB-45EB71DFCB26}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\parent_form\u0026child_form\\WindowsFormsApp1\\windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2532E7CF-D079-4CF6-89FB-45EB71DFCB26}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2532E7CF-D079-4CF6-89FB-45EB71DFCB26}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\parent_form\u0026child_form\\WindowsFormsApp1\\windowsformsapp1\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2532E7CF-D079-4CF6-89FB-45EB71DFCB26}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2532E7CF-D079-4CF6-89FB-45EB71DFCB26}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\parent_form\u0026child_form\\WindowsFormsApp1\\windowsformsapp1\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2532E7CF-D079-4CF6-89FB-45EB71DFCB26}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChildForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\parent_form\u0026child_form\\WindowsFormsApp1\\WindowsFormsApp1\\ChildForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ChildForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\parent_form\u0026child_form\\WindowsFormsApp1\\WindowsFormsApp1\\ChildForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ChildForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T10:23:27.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\parent_form\u0026child_form\\WindowsFormsApp1\\WindowsFormsApp1\\ParentForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\parent_form\u0026child_form\\WindowsFormsApp1\\WindowsFormsApp1\\ParentForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ParentForm.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwHwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T10:13:45.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\parent_form\u0026child_form\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form2.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\parent_form\u0026child_form\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:57:50.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\parent_form\u0026child_form\\WindowsFormsApp1\\WindowsFormsApp1\\nForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\nForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\parent_form\u0026child_form\\WindowsFormsApp1\\WindowsFormsApp1\\nForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\nForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T22:02:43.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

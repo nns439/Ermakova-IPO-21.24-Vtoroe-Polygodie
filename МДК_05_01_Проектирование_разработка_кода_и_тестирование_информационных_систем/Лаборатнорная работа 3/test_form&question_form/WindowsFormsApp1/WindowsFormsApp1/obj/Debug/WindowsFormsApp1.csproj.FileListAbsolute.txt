@@ -1,0 +1,24 @@
+C:\Users\User\Desktop\ООП(2ЛАБ)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\ООП(2ЛАБ)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\ООП(2ЛАБ)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\ООП(2ЛАБ)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ООП(2ЛАБ)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\ООП(2ЛАБ)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WinQuestion.resources
+C:\Users\User\Desktop\ООП(2ЛАБ)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ООП(2ЛАБ)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ООП(2ЛАБ)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\ООП(2ЛАБ)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\ООП(2ЛАБ)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\ООП(2ЛАБ)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TestList.resources
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\test_form&question_form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\test_form&question_form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\test_form&question_form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\test_form&question_form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\test_form&question_form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\test_form&question_form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\test_form&question_form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TestList.resources
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\test_form&question_form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WinQuestion.resources
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\test_form&question_form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\test_form&question_form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\test_form&question_form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\test_form&question_form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

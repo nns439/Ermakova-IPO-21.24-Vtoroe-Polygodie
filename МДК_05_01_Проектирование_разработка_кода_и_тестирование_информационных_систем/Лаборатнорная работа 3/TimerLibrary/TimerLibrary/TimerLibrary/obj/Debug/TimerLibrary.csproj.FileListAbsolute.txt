@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\TimerLibrary\TimerLibrary\TimerLibrary\bin\Debug\TimerLibrary.dll
+C:\Users\User\Desktop\TimerLibrary\TimerLibrary\TimerLibrary\bin\Debug\TimerLibrary.pdb
+C:\Users\User\Desktop\TimerLibrary\TimerLibrary\TimerLibrary\obj\Debug\TimerLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TimerLibrary\TimerLibrary\TimerLibrary\obj\Debug\TimerLibrary.UserControl1.resources
+C:\Users\User\Desktop\TimerLibrary\TimerLibrary\TimerLibrary\obj\Debug\TimerLibrary.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TimerLibrary\TimerLibrary\TimerLibrary\obj\Debug\TimerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TimerLibrary\TimerLibrary\TimerLibrary\obj\Debug\TimerLibrary.dll
+C:\Users\User\Desktop\TimerLibrary\TimerLibrary\TimerLibrary\obj\Debug\TimerLibrary.pdb
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\TimerLibrary\TimerLibrary\TimerLibrary\bin\Debug\TimerLibrary.dll
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\TimerLibrary\TimerLibrary\TimerLibrary\bin\Debug\TimerLibrary.pdb
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\TimerLibrary\TimerLibrary\TimerLibrary\obj\Debug\TimerLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\TimerLibrary\TimerLibrary\TimerLibrary\obj\Debug\TimerLibrary.UserControl1.resources
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\TimerLibrary\TimerLibrary\TimerLibrary\obj\Debug\TimerLibrary.csproj.GenerateResource.cache
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\TimerLibrary\TimerLibrary\TimerLibrary\obj\Debug\TimerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\TimerLibrary\TimerLibrary\TimerLibrary\obj\Debug\TimerLibrary.dll
+C:\Users\User\Desktop\win_forms\Лаборатнорная работа 3\TimerLibrary\TimerLibrary\TimerLibrary\obj\Debug\TimerLibrary.pdb
