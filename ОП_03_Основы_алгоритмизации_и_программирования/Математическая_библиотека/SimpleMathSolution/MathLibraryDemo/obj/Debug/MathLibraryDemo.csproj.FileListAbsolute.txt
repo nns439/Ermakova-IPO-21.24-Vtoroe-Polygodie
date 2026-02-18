@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\MyLibrary\SimpleMathSolution\MathLibraryDemo\bin\Debug\MathLibraryDemo.exe.config
+C:\Users\User\Desktop\MyLibrary\SimpleMathSolution\MathLibraryDemo\bin\Debug\MathLibraryDemo.exe
+C:\Users\User\Desktop\MyLibrary\SimpleMathSolution\MathLibraryDemo\bin\Debug\MathLibraryDemo.pdb
+C:\Users\User\Desktop\MyLibrary\SimpleMathSolution\MathLibraryDemo\bin\Debug\SimpleMathLibrary.dll
+C:\Users\User\Desktop\MyLibrary\SimpleMathSolution\MathLibraryDemo\bin\Debug\SimpleMathLibrary.pdb
+C:\Users\User\Desktop\MyLibrary\SimpleMathSolution\MathLibraryDemo\obj\Debug\MathLibraryDemo.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MyLibrary\SimpleMathSolution\MathLibraryDemo\obj\Debug\MathLibraryDemo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyLibrary\SimpleMathSolution\MathLibraryDemo\obj\Debug\MathLibr.E2D0CF84.Up2Date
+C:\Users\User\Desktop\MyLibrary\SimpleMathSolution\MathLibraryDemo\obj\Debug\MathLibraryDemo.exe
+C:\Users\User\Desktop\MyLibrary\SimpleMathSolution\MathLibraryDemo\obj\Debug\MathLibraryDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\MyLibrary\SimpleMathSolution\SimpleMathLibrary\bin\Debug\SimpleMathLibrary.dll
+C:\Users\User\Desktop\MyLibrary\SimpleMathSolution\SimpleMathLibrary\bin\Debug\SimpleMathLibrary.pdb
+C:\Users\User\Desktop\MyLibrary\SimpleMathSolution\SimpleMathLibrary\obj\Debug\SimpleMathLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MyLibrary\SimpleMathSolution\SimpleMathLibrary\obj\Debug\SimpleMathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyLibrary\SimpleMathSolution\SimpleMathLibrary\obj\Debug\SimpleMathLibrary.dll
+C:\Users\User\Desktop\MyLibrary\SimpleMathSolution\SimpleMathLibrary\obj\Debug\SimpleMathLibrary.pdb
