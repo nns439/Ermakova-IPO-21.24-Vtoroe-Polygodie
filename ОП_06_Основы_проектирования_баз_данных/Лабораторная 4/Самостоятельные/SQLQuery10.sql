@@ -1,0 +1,1 @@
+SELECT DATEDIFF(MONTH, '2008-04-30', GETDATE()) AS Месяцев_с_рождения;
