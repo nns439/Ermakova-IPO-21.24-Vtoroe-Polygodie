@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\win_forms\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 3\\test_form\u0026question_form\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DEB456-22E0-4CD0-A945-0B08DD64E8B3}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\win_forms\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 3\\test_form\u0026question_form\\WindowsFormsApp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DEB456-22E0-4CD0-A945-0B08DD64E8B3}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DEB456-22E0-4CD0-A945-0B08DD64E8B3}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\win_forms\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 3\\test_form\u0026question_form\\WindowsFormsApp1\\windowsformsapp1\\testlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1DEB456-22E0-4CD0-A945-0B08DD64E8B3}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\testlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DEB456-22E0-4CD0-A945-0B08DD64E8B3}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\win_forms\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 3\\test_form\u0026question_form\\WindowsFormsApp1\\windowsformsapp1\\testlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DEB456-22E0-4CD0-A945-0B08DD64E8B3}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\testlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DEB456-22E0-4CD0-A945-0B08DD64E8B3}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\user\\desktop\\win_forms\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 3\\test_form\u0026question_form\\windowsformsapp1\\windowsformsapp1\\winquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DEB456-22E0-4CD0-A945-0B08DD64E8B3}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\winquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DEB456-22E0-4CD0-A945-0B08DD64E8B3}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\win_forms\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 3\\test_form\u0026question_form\\WindowsFormsApp1\\windowsformsapp1\\winquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1DEB456-22E0-4CD0-A945-0B08DD64E8B3}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\winquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\win_forms\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 3\\test_form\u0026question_form\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\win_forms\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 3\\test_form\u0026question_form\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T11:03:40.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestList.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\win_forms\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 3\\test_form\u0026question_form\\WindowsFormsApp1\\WindowsFormsApp1\\TestList.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\TestList.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\win_forms\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 3\\test_form\u0026question_form\\WindowsFormsApp1\\WindowsFormsApp1\\TestList.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\TestList.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T11:02:33.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestList.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\win_forms\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 3\\test_form\u0026question_form\\WindowsFormsApp1\\WindowsFormsApp1\\TestList.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\TestList.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\win_forms\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 3\\test_form\u0026question_form\\WindowsFormsApp1\\WindowsFormsApp1\\TestList.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\TestList.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:46:31.203Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WinQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\win_forms\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 3\\test_form\u0026question_form\\WindowsFormsApp1\\WindowsFormsApp1\\WinQuestion.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\WinQuestion.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\win_forms\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 3\\test_form\u0026question_form\\WindowsFormsApp1\\WindowsFormsApp1\\WinQuestion.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\WinQuestion.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:40:24.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WinQuestion.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\win_forms\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 3\\test_form\u0026question_form\\WindowsFormsApp1\\WindowsFormsApp1\\WinQuestion.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\WinQuestion.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\win_forms\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043D\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 3\\test_form\u0026question_form\\WindowsFormsApp1\\WindowsFormsApp1\\WinQuestion.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\WinQuestion.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:30:17.264Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

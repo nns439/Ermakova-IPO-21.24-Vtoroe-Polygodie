@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 5\\WinAnim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B43813-C62B-462A-BD69-FE272D775A80}|WinAnim\\WinAnim.csproj|C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 5\\WinAnim\\winanim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B43813-C62B-462A-BD69-FE272D775A80}|WinAnim\\WinAnim.csproj|solutionrelative:winanim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B43813-C62B-462A-BD69-FE272D775A80}|WinAnim\\WinAnim.csproj|c:\\users\\user\\desktop\\windows_form\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 5\\winanim\\winanim\\winapiclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B43813-C62B-462A-BD69-FE272D775A80}|WinAnim\\WinAnim.csproj|solutionrelative:winanim\\winapiclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B43813-C62B-462A-BD69-FE272D775A80}|WinAnim\\WinAnim.csproj|C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 5\\WinAnim\\winanim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7B43813-C62B-462A-BD69-FE272D775A80}|WinAnim\\WinAnim.csproj|solutionrelative:winanim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 5\\WinAnim\\WinAnim\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAnim\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 5\\WinAnim\\WinAnim\\Form1.cs",
+              "RelativeToolTip": "WinAnim\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA7wDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T09:26:27.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WinAPIClass.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 5\\WinAnim\\WinAnim\\WinAPIClass.cs",
+              "RelativeDocumentMoniker": "WinAnim\\WinAPIClass.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 5\\WinAnim\\WinAnim\\WinAPIClass.cs",
+              "RelativeToolTip": "WinAnim\\WinAPIClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T09:25:10.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 5\\WinAnim\\WinAnim\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAnim\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\windows_form\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 5\\WinAnim\\WinAnim\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinAnim\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T09:18:03.519Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
