@@ -1,1 +1,0 @@
-SELECT DATEDIFF(DAY, GETDATE(), '2026-06-30') AS Дней_до_конца_семестра;
